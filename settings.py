@@ -150,3 +150,5 @@ LOGGING = {
         },
     }
 }
+
+YT_DEVELOPER_KEY = "AI39si4AsXaDjmt0-3UiPxARxi-Vw9wABlg3Arc5yztO3rKtdxomWF16UV82zlfAi_AdfdZu7Do66wfxXkJCVNwL6swaDZiFcA"
